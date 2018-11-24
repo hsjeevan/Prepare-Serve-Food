@@ -1,3 +1,3 @@
 # Prepare-Serve-
 
-Click to preview: https://htmlpreview.github.io/?https://github.com/hsjeevan/Prepare-Serve-Food
+Click to preview: https://htmlpreview.github.io/?https://github.com/hsjeevan/Prepare-Serve-Food/blob/master/PSF.html
